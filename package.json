@@ -27,7 +27,8 @@
 		"tailwind-merge": "^1.14.0",
 		"tailwindcss-animate": "^1.0.6",
 		"xml2js": "^0.6.2",
-		"crypto-js":"4.2.0"
+		"crypto-js":"4.2.0",
+		"pages:build": "npx @cloudflare/next-on-pages"
 	},
 	"devDependencies": {
 		"autoprefixer": "^10.4.2",
