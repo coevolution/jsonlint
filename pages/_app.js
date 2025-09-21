@@ -71,6 +71,8 @@ export default function App({ Component, pageProps }) {
 			<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5"/>
 			<meta name="msapplication-TileColor" content="#00aba9"/>
 			<meta name="theme-color" content="#ffffff"/>
+			{/* <meta name="google-adsense-account" content="ca-pub-5719659679012958"></meta> */}
+			<meta name="google-adsense-account" content="ca-pub-8828619292482756"></meta>
 		</Head>
 		<div className="min-h-full bg-slate-50 dark:bg-slate-900">
 			<ValidContext.Provider value={{ isValid, setIsValid }}>
