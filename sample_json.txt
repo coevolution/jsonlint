@@ -1,0 +1,15 @@
+{
+  "id": 101,
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "isActive": true,
+  "roles": ["admin", "editor"],
+  "profile": {
+    "age": 29,
+    "country": "USA",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true
+    }
+  }
+}

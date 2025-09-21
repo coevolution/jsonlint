@@ -1,6 +1,6 @@
 {
   "main": ".vercel/output/static/_worker.js",
-  "name": "my-app",
+  "name": "json-formatter",
   "compatibility_date": "2025-03-25",
   "compatibility_flags": [
     "nodejs_compat"
